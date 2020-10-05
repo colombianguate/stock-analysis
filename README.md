@@ -48,13 +48,15 @@ As seen below our results were almost cut by a whole second. :
 ### Pros of Refactoring Code 
 
 Improves the Design (Makes the code clean and organized)
+
 Helps programing faster
+
 In this case it used less memory.
 
 
 ### Cons of Refactoring Code
 
-For me it was time consuming,
+For me it was time consuming.
 
 Could be difficult to maintain with a larger data set.
 
